@@ -119,4 +119,34 @@
   body {
     @apply bg-background text-foreground;
   }
+
+  /* Mobile Responsiveness Fixes */
+  html {
+    overflow-x: hidden;
+  }
+
+  body {
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100vw;
+  }
+
+  /* Prevent any element from causing horizontal scroll */
+  * {
+    max-width: 100%;
+  }
+
+  /* Fix container on mobile */
+  .container {
+    width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  @media (max-width: 640px) {
+    .container {
+      padding-left: 0.75rem;
+      padding-right: 0.75rem;
+    }
+  }
 }
