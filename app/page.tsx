@@ -1,6 +1,7 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { BookOpen, GraduationCap, Users, Brain } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { BookOpen, GraduationCap, Users, Brain, Download } from "lucide-react";
 import Link from "next/link";
 import courseData from "@/data/course-content.json";
 import type { CourseData } from "@/types/course";
@@ -56,6 +57,69 @@ export default function HomePage() {
 
       {/* Main Content */}
       <div className="container mx-auto px-4 py-8">
+        {/* Textbooks Section */}
+        <div className="mb-12">
+          <div className="flex items-center gap-3 mb-6">
+            <div className="p-2 bg-gradient-to-br from-amber-500 to-orange-600 rounded-lg">
+              <BookOpen className="h-6 w-6 text-white" />
+            </div>
+            <div>
+              <h2 className="text-2xl font-bold">Course Textbooks</h2>
+              <p className="text-sm text-slate-600 dark:text-slate-400">
+                Download the reference materials
+              </p>
+            </div>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-6">
+            {/* Konopaske Textbook */}
+            <Card className="hover:shadow-lg transition-shadow">
+              <CardHeader>
+                <CardTitle className="text-lg">
+                  Organizational Behavior and Management
+                </CardTitle>
+                <CardDescription>
+                  Konopaske, Ivancevich, and Matteson (2023) - 10th Edition
+                </CardDescription>
+              </CardHeader>
+              <CardContent>
+                <a
+                  href="/books/Konopaske-OB-Management-2023.pdf"
+                  download="Konopaske-OB-Management-2023.pdf"
+                >
+                  <Button className="w-full bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700">
+                    <Download className="h-4 w-4 mr-2" />
+                    Download PDF (27 MB)
+                  </Button>
+                </a>
+              </CardContent>
+            </Card>
+
+            {/* Robbins & Judge Textbook */}
+            <Card className="hover:shadow-lg transition-shadow">
+              <CardHeader>
+                <CardTitle className="text-lg">
+                  Organizational Behavior, Global Edition
+                </CardTitle>
+                <CardDescription>
+                  Robbins and Judge (2024) - Latest Edition
+                </CardDescription>
+              </CardHeader>
+              <CardContent>
+                <a
+                  href="/books/Robbins-Judge-OB-2024.pdf"
+                  download="Robbins-Judge-OB-2024.pdf"
+                >
+                  <Button className="w-full bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700">
+                    <Download className="h-4 w-4 mr-2" />
+                    Download PDF (64 MB)
+                  </Button>
+                </a>
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+
         <div className="space-y-12">
           {data.parts.map((part) => {
             const Icon = partIcons[part.part as keyof typeof partIcons];
