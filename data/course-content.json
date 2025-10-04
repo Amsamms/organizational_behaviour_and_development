@@ -162,6 +162,446 @@
         "Teams need appropriate levels of authority - too little suggests lack of trust, too much can overwhelm developing teams",
         "Reward systems should shift from individual-based to team-based to support collective performance"
       ],
+      "sections": [
+        {
+          "title": "Introduction to Groups and Teams",
+          "level": 1,
+          "content": "Understanding the distinction between groups and teams and their characteristics in organizational settings",
+          "concepts": [
+            {
+              "name": "Groups",
+              "definition": "Two or more individuals interacting and interdependent who come together to achieve particular objectives",
+              "examples": ["Department meetings", "Project committees", "Work units"]
+            },
+            {
+              "name": "Teams",
+              "definition": "Mature groups with member interdependence, motivation to work toward a common goal, and accountability",
+              "examples": ["Self-managed work teams", "Cross-functional teams", "Sports teams"]
+            },
+            {
+              "name": "Key Distinction",
+              "definition": "Teams start as groups, but not all groups mature into teams; teams require higher levels of interdependence and commitment",
+              "examples": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Types of Groups",
+          "level": 1,
+          "content": "Classification of groups in organizational settings",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Formal Groups",
+              "level": 2,
+              "content": "Groups established by the organization to accomplish specific tasks",
+              "concepts": [
+                {
+                  "name": "Command Groups",
+                  "definition": "Groups consisting of subordinates who report directly to a given supervisor",
+                  "examples": ["Department teams", "Work units under a manager"]
+                },
+                {
+                  "name": "Task Groups",
+                  "definition": "Employees working together to complete a specific job or project",
+                  "examples": ["Project teams", "Ad hoc committees", "Task forces"]
+                },
+                {
+                  "name": "Team Groups",
+                  "definition": "Formal groups that have matured into teams with shared accountability",
+                  "examples": ["Quality circles", "Product development teams"]
+                }
+              ]
+            },
+            {
+              "title": "Informal Groups",
+              "level": 2,
+              "content": "Groups that emerge naturally from social interactions",
+              "concepts": [
+                {
+                  "name": "Interest Groups",
+                  "definition": "Individuals who affiliate to achieve a common objective",
+                  "examples": ["Professional associations within company", "Employee resource groups"]
+                },
+                {
+                  "name": "Friendship Groups",
+                  "definition": "Groups formed based on common characteristics or social bonds",
+                  "examples": ["Lunch groups", "Social clubs", "After-work activity groups"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Why People Form Groups",
+          "level": 1,
+          "content": "Motivations and reasons for group formation",
+          "concepts": [
+            {
+              "name": "Social Needs",
+              "definition": "Desire for affiliation and belongingness",
+              "examples": ["Friendship", "Social interaction", "Companionship"]
+            },
+            {
+              "name": "Security Needs",
+              "definition": "Strength in numbers provides protection and support",
+              "examples": ["Union membership", "Support networks", "Collective bargaining"]
+            },
+            {
+              "name": "Esteem Needs",
+              "definition": "Recognition and status from group membership",
+              "examples": ["Professional associations", "Elite work groups", "Leadership positions"]
+            },
+            {
+              "name": "Proximity",
+              "definition": "Physical closeness facilitates interaction",
+              "examples": ["Office neighbors", "Department members", "Location-based groups"]
+            },
+            {
+              "name": "Attraction",
+              "definition": "Similarity in attitudes, values, or characteristics",
+              "examples": ["Shared interests", "Common background", "Similar goals"]
+            },
+            {
+              "name": "Group Goals",
+              "definition": "Collective objectives requiring coordinated effort",
+              "examples": ["Achieving team targets", "Completing projects", "Solving problems"]
+            },
+            {
+              "name": "Economic Benefits",
+              "definition": "Financial advantages from group membership",
+              "examples": ["Team bonuses", "Profit-sharing", "Group incentives"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Stages of Group Development",
+          "level": 1,
+          "content": "Five-stage model describing how groups evolve over time",
+          "concepts": [
+            {
+              "name": "Forming",
+              "definition": "Initial stage where members get acquainted and understand group purpose",
+              "examples": ["Orientation meetings", "Introductions", "Establishing ground rules"]
+            },
+            {
+              "name": "Storming",
+              "definition": "Conflict stage where members compete for roles and resist group influence",
+              "examples": ["Disagreements about direction", "Power struggles", "Interpersonal conflicts"]
+            },
+            {
+              "name": "Norming",
+              "definition": "Cohesion develops as members accept roles and establish norms",
+              "examples": ["Agreement on procedures", "Role clarity", "Team identity formation"]
+            },
+            {
+              "name": "Performing",
+              "definition": "Functional stage where group focuses on task accomplishment",
+              "examples": ["High productivity", "Effective collaboration", "Goal achievement"]
+            },
+            {
+              "name": "Adjourning",
+              "definition": "Dissolution stage when temporary groups complete their purpose",
+              "examples": ["Project completion", "Team disbandment", "Transition planning"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Group Composition",
+          "level": 1,
+          "content": "The mix of member characteristics affecting group performance",
+          "concepts": [
+            {
+              "name": "Homogeneous Groups",
+              "definition": "Groups with similar member characteristics",
+              "examples": ["Same department members", "Similar expertise levels", "Shared backgrounds"]
+            },
+            {
+              "name": "Heterogeneous Groups",
+              "definition": "Groups with diverse member characteristics",
+              "examples": ["Cross-functional teams", "Diverse skill sets", "Varied backgrounds"]
+            },
+            {
+              "name": "Trade-offs",
+              "definition": "Homogeneous groups are more cohesive; heterogeneous groups can outperform due to diverse knowledge and perspectives",
+              "examples": []
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Group Roles",
+          "level": 1,
+          "content": "Expected patterns of behavior associated with positions in groups",
+          "concepts": [
+            {
+              "name": "Expected Roles",
+              "definition": "Behaviors others believe a person should perform",
+              "examples": ["Leader responsibilities", "Member duties", "Formal job requirements"]
+            },
+            {
+              "name": "Perceived Roles",
+              "definition": "Behaviors individuals believe they should perform",
+              "examples": ["Personal interpretation of duties", "Self-defined responsibilities"]
+            },
+            {
+              "name": "Enacted Roles",
+              "definition": "Actual behaviors individuals perform",
+              "examples": ["Real actions taken", "Observed behavior patterns"]
+            },
+            {
+              "name": "Role Conflict",
+              "definition": "Discrepancy between expected, perceived, and enacted roles",
+              "examples": ["Conflicting expectations", "Multiple role demands"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Group Norms",
+          "level": 1,
+          "content": "Standards shared by group members that regulate member behavior",
+          "concepts": [
+            {
+              "name": "Performance Norms",
+              "definition": "Standards for work output and quality",
+              "examples": ["Productivity levels", "Quality standards", "Work pace"]
+            },
+            {
+              "name": "Appearance Norms",
+              "definition": "Standards for dress and presentation",
+              "examples": ["Dress codes", "Professional appearance", "Workplace attire"]
+            },
+            {
+              "name": "Social Arrangement Norms",
+              "definition": "Standards for social interactions",
+              "examples": ["Lunch patterns", "Social activities", "Communication styles"]
+            },
+            {
+              "name": "Resource Allocation Norms",
+              "definition": "Standards for distributing resources",
+              "examples": ["Workload distribution", "Equipment sharing", "Space allocation"]
+            },
+            {
+              "name": "Norm Conformity",
+              "definition": "Pressure to comply with group standards",
+              "examples": ["Social pressure", "Sanctions for deviation", "Rewards for compliance"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Group Leadership",
+          "level": 1,
+          "content": "Leadership roles and responsibilities within groups",
+          "concepts": [
+            {
+              "name": "Formal Leaders",
+              "definition": "Officially designated group leaders",
+              "examples": ["Team supervisors", "Committee chairs", "Project managers"]
+            },
+            {
+              "name": "Informal Leaders",
+              "definition": "Emergent leaders without formal authority",
+              "examples": ["Influential team members", "Opinion leaders", "Subject matter experts"]
+            },
+            {
+              "name": "Leadership Functions",
+              "definition": "Key responsibilities of group leaders",
+              "examples": ["Facilitating communication", "Coordinating activities", "Resolving conflicts", "Representing the group"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Group Cohesiveness",
+          "level": 1,
+          "content": "The degree to which members are attracted to and motivated to remain in the group",
+          "concepts": [
+            {
+              "name": "Factors Increasing Cohesiveness",
+              "definition": "Conditions that strengthen group bonds",
+              "examples": ["Small group size", "Similar attitudes", "Success", "External threats", "Difficult entry"]
+            },
+            {
+              "name": "Consequences of Cohesiveness",
+              "definition": "Effects of strong group bonds",
+              "examples": ["Increased conformity", "Higher satisfaction", "Better communication", "Greater influence on members"]
+            },
+            {
+              "name": "Cohesiveness and Performance",
+              "definition": "Relationship depends on alignment between group norms and organizational goals",
+              "examples": ["High cohesiveness + positive norms = high performance", "High cohesiveness + negative norms = low performance"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Groupthink",
+          "level": 1,
+          "content": "Deterioration of mental efficiency, reality testing, and moral judgment resulting from in-group pressures",
+          "concepts": [
+            {
+              "name": "Symptoms of Groupthink",
+              "definition": "Warning signs of flawed decision-making",
+              "examples": ["Illusion of invulnerability", "Collective rationalization", "Belief in inherent morality", "Stereotyping outsiders", "Self-censorship", "Illusion of unanimity"]
+            },
+            {
+              "name": "Causes of Groupthink",
+              "definition": "Conditions fostering groupthink",
+              "examples": ["High cohesiveness", "Isolation from outside input", "Directive leadership", "High stress", "Lack of procedures"]
+            },
+            {
+              "name": "Preventing Groupthink",
+              "definition": "Strategies to avoid flawed group decisions",
+              "examples": ["Encourage critical evaluation", "Leader remains impartial", "Assign devil's advocate", "Seek outside input", "Consider alternatives"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Types of Teams",
+          "level": 1,
+          "content": "Different team structures designed for specific organizational purposes",
+          "concepts": [
+            {
+              "name": "Problem-Solving Teams",
+              "definition": "Groups that meet to solve specific problems and improve processes",
+              "examples": ["Quality circles", "Improvement teams", "Task forces"]
+            },
+            {
+              "name": "Cross-Functional Teams",
+              "definition": "Teams with members from different departments or specialties",
+              "examples": ["Product development teams", "Process improvement teams", "Strategic planning teams"]
+            },
+            {
+              "name": "Virtual Teams",
+              "definition": "Teams that work together using technology across time, distance, and organizational boundaries",
+              "examples": ["Remote project teams", "Global teams", "Distributed work teams"]
+            },
+            {
+              "name": "Research and Development Teams",
+              "definition": "Teams focused on innovation and new product development",
+              "examples": ["Innovation teams", "Product design teams", "Technology development teams"]
+            },
+            {
+              "name": "Self-Managed Teams",
+              "definition": "Autonomous teams responsible for managing their own work processes",
+              "examples": ["Self-directed work teams", "Autonomous work groups", "Empowered teams"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Team Effectiveness",
+          "level": 1,
+          "content": "Factors and conditions that enable teams to achieve high performance",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Training Requirements",
+              "level": 2,
+              "content": "Essential skills development for effective teams",
+              "concepts": [
+                {
+                  "name": "Task Skills",
+                  "definition": "Technical competencies required for team tasks",
+                  "examples": ["Job-specific skills", "Technical expertise", "Process knowledge"]
+                },
+                {
+                  "name": "Teamwork Skills",
+                  "definition": "Collaborative and interpersonal abilities",
+                  "examples": ["Communication", "Cooperation", "Coordination"]
+                },
+                {
+                  "name": "Problem-Solving Skills",
+                  "definition": "Analytical and decision-making capabilities",
+                  "examples": ["Root cause analysis", "Decision-making techniques", "Critical thinking"]
+                },
+                {
+                  "name": "Creativity Skills",
+                  "definition": "Innovation and creative thinking abilities",
+                  "examples": ["Brainstorming", "Idea generation", "Creative problem-solving"]
+                },
+                {
+                  "name": "Interpersonal Skills",
+                  "definition": "Relationship and communication competencies",
+                  "examples": ["Active listening", "Conflict resolution", "Feedback skills"]
+                }
+              ]
+            },
+            {
+              "title": "Communication",
+              "level": 2,
+              "content": "Information sharing essential for team success",
+              "concepts": [
+                {
+                  "name": "Information Sharing",
+                  "definition": "Management must provide teams with necessary information",
+                  "examples": ["Performance data", "Organizational updates", "Resource availability"]
+                },
+                {
+                  "name": "Open Communication",
+                  "definition": "Free flow of information among team members",
+                  "examples": ["Regular meetings", "Transparent discussions", "Feedback exchanges"]
+                },
+                {
+                  "name": "Communication Channels",
+                  "definition": "Multiple pathways for information exchange",
+                  "examples": ["Face-to-face meetings", "Digital platforms", "Documentation systems"]
+                }
+              ]
+            },
+            {
+              "title": "Empowerment",
+              "level": 2,
+              "content": "Granting teams appropriate authority and decision-making power",
+              "concepts": [
+                {
+                  "name": "Appropriate Authority",
+                  "definition": "Balancing team autonomy with organizational control",
+                  "examples": ["Decision-making rights", "Resource control", "Work process autonomy"]
+                },
+                {
+                  "name": "Too Little Authority",
+                  "definition": "Insufficient empowerment suggests lack of trust and limits effectiveness",
+                  "examples": ["Micromanagement", "Limited decision rights", "Constant oversight"]
+                },
+                {
+                  "name": "Too Much Authority",
+                  "definition": "Excessive autonomy can overwhelm developing teams",
+                  "examples": ["Unclear boundaries", "Insufficient guidance", "Overwhelming responsibility"]
+                }
+              ]
+            },
+            {
+              "title": "Reward Systems",
+              "level": 2,
+              "content": "Aligning rewards with team performance",
+              "concepts": [
+                {
+                  "name": "Team-Based Rewards",
+                  "definition": "Shifting from individual to collective recognition and compensation",
+                  "examples": ["Team bonuses", "Group incentives", "Collective goals"]
+                },
+                {
+                  "name": "Individual Contributions",
+                  "definition": "Recognizing personal contributions within team context",
+                  "examples": ["Peer recognition", "360-degree feedback", "Individual development"]
+                },
+                {
+                  "name": "Mixed Systems",
+                  "definition": "Balancing individual and team rewards",
+                  "examples": ["Combination incentives", "Dual recognition programs", "Balanced scorecard"]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "totalPages": 31
     },
     {
@@ -181,6 +621,244 @@
         "Cultural differences significantly impact negotiation strategies and tactics",
         "Third-party interventions (mediation, arbitration, conciliation, consultation) can help resolve conflicts",
         "Too little conflict can lead to stagnation, while too much can create chaos"
+      ],
+      "sections": [
+        {
+          "title": "Contemporary Perspective on Conflict",
+          "level": 1,
+          "content": "Modern view recognizing that conflict is neither inherently good nor bad, but inevitable and must be managed",
+          "concepts": [
+            {
+              "name": "Functional Conflict",
+              "definition": "Conflict that supports organizational goals and enhances performance",
+              "examples": ["Constructive debate", "Creative tension", "Healthy competition"]
+            },
+            {
+              "name": "Dysfunctional Conflict",
+              "definition": "Conflict that hinders organizational performance and goal achievement",
+              "examples": ["Personal attacks", "Destructive competition", "Hostility"]
+            },
+            {
+              "name": "Optimal Level of Conflict",
+              "definition": "Every organization has an ideal level of conflict for positive performance",
+              "examples": ["Too little leads to stagnation", "Too much creates chaos", "Moderate levels stimulate innovation"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Types of Conflict",
+          "level": 1,
+          "content": "Different forms of conflict based on parties involved",
+          "concepts": [
+            {
+              "name": "Interpersonal Conflict",
+              "definition": "Conflict between two or more individuals",
+              "examples": ["Personality clashes", "Disagreements between colleagues", "Manager-employee disputes"]
+            },
+            {
+              "name": "Intragroup Conflict",
+              "definition": "Conflict within a group or team",
+              "examples": ["Team disagreements", "Role conflicts", "Norm violations"]
+            },
+            {
+              "name": "Intergroup Conflict",
+              "definition": "Conflict between different groups or departments",
+              "examples": ["Departmental rivalries", "Cross-functional disputes", "Labor-management conflicts"]
+            },
+            {
+              "name": "Interorganizational Conflict",
+              "definition": "Conflict between different organizations",
+              "examples": ["Competitor conflicts", "Supplier disputes", "Regulatory conflicts"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Stages of Conflict Development",
+          "level": 1,
+          "content": "Three-stage process of how conflict emerges and escalates",
+          "concepts": [
+            {
+              "name": "Perceived Conflict (Stage 1)",
+              "definition": "Awareness that conditions exist for potential conflict",
+              "examples": ["Recognizing goal differences", "Noticing resource competition", "Identifying incompatibilities"]
+            },
+            {
+              "name": "Felt Conflict (Stage 2)",
+              "definition": "Emotional involvement and personalization of the conflict",
+              "examples": ["Feeling threatened", "Experiencing anxiety", "Developing hostility"]
+            },
+            {
+              "name": "Manifest Conflict (Stage 3)",
+              "definition": "Overt conflict behavior and actions",
+              "examples": ["Open disagreements", "Aggressive behavior", "Work disruption", "Sabotage"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Causes of Conflict",
+          "level": 1,
+          "content": "Primary sources of organizational conflict",
+          "concepts": [
+            {
+              "name": "Work Interdependence",
+              "definition": "Dependence between individuals or groups for task completion",
+              "examples": ["Sequential interdependence", "Reciprocal interdependence", "Pooled resources"]
+            },
+            {
+              "name": "Goal Differences",
+              "definition": "Incompatible objectives between parties",
+              "examples": ["Sales vs. production targets", "Short-term vs. long-term goals", "Individual vs. organizational goals"]
+            },
+            {
+              "name": "Perceptual Differences",
+              "definition": "Different interpretations of situations and information",
+              "examples": ["Differing priorities", "Varied interpretations", "Selective perception"]
+            },
+            {
+              "name": "Limited Resources",
+              "definition": "Competition for scarce organizational resources",
+              "examples": ["Budget allocations", "Space", "Equipment", "Personnel"]
+            },
+            {
+              "name": "Role Ambiguity",
+              "definition": "Unclear expectations and responsibilities",
+              "examples": ["Overlapping duties", "Undefined boundaries", "Authority confusion"]
+            },
+            {
+              "name": "Communication Barriers",
+              "definition": "Breakdowns or distortions in information exchange",
+              "examples": ["Misunderstandings", "Poor listening", "Language differences"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Conflict Resolution Approaches",
+          "level": 1,
+          "content": "Five strategies for managing and resolving conflict situations",
+          "concepts": [
+            {
+              "name": "Dominating (Competing)",
+              "definition": "Assertive and uncooperative approach forcing one's position",
+              "examples": ["Win-lose orientation", "Exercising authority", "Demanding compliance"]
+            },
+            {
+              "name": "Accommodating (Smoothing)",
+              "definition": "Unassertive and cooperative approach yielding to others",
+              "examples": ["Giving in", "Self-sacrifice", "Maintaining harmony"]
+            },
+            {
+              "name": "Problem Solving (Collaborating)",
+              "definition": "Assertive and cooperative approach seeking mutually beneficial solutions",
+              "examples": ["Win-win solutions", "Integrative bargaining", "Creative problem-solving"]
+            },
+            {
+              "name": "Avoiding (Withdrawing)",
+              "definition": "Unassertive and uncooperative approach sidestepping conflict",
+              "examples": ["Postponing issues", "Withdrawing from situation", "Ignoring problems"]
+            },
+            {
+              "name": "Compromising",
+              "definition": "Moderate assertiveness and cooperation seeking middle ground",
+              "examples": ["Splitting the difference", "Give and take", "Partial satisfaction"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Negotiation",
+          "level": 1,
+          "content": "Process of reaching agreements through discussion and compromise",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Types of Negotiation",
+              "level": 2,
+              "content": "Two primary negotiation approaches",
+              "concepts": [
+                {
+                  "name": "Distributive Negotiation (Win-Lose)",
+                  "definition": "Fixed-pie approach where one party's gain is another's loss",
+                  "examples": ["Price negotiations", "Salary bargaining", "Resource allocation"]
+                },
+                {
+                  "name": "Integrative Negotiation (Win-Win)",
+                  "definition": "Expanding-pie approach seeking mutual gains",
+                  "examples": ["Collaborative problem-solving", "Joint value creation", "Partnership development"]
+                }
+              ]
+            },
+            {
+              "title": "Negotiation Process",
+              "level": 2,
+              "content": "Key elements for effective negotiations",
+              "concepts": [
+                {
+                  "name": "Understanding Context",
+                  "definition": "Analyzing the situation and environment",
+                  "examples": ["Power dynamics", "Time pressures", "Relationship importance"]
+                },
+                {
+                  "name": "Identifying Issues",
+                  "definition": "Clarifying what needs to be negotiated",
+                  "examples": ["Core interests", "Priorities", "Trade-offs"]
+                },
+                {
+                  "name": "Desired Outcomes",
+                  "definition": "Determining acceptable results",
+                  "examples": ["Best alternative", "Target point", "Resistance point"]
+                }
+              ]
+            },
+            {
+              "title": "Cultural Considerations",
+              "level": 2,
+              "content": "Impact of culture on negotiation strategies",
+              "concepts": [
+                {
+                  "name": "Cultural Differences",
+                  "definition": "Variations in negotiation styles across cultures",
+                  "examples": ["Communication styles", "Time orientation", "Relationship vs. task focus"]
+                },
+                {
+                  "name": "Negotiation Tactics",
+                  "definition": "Culture-specific approaches to negotiation",
+                  "examples": ["Direct vs. indirect communication", "Individual vs. group decision-making", "Emotional expression norms"]
+                }
+              ]
+            },
+            {
+              "title": "Third-Party Interventions",
+              "level": 2,
+              "content": "External assistance in conflict resolution",
+              "concepts": [
+                {
+                  "name": "Mediation",
+                  "definition": "Neutral third party facilitates discussion but doesn't impose solutions",
+                  "examples": ["Labor mediators", "Conflict facilitators", "Dispute resolution specialists"]
+                },
+                {
+                  "name": "Arbitration",
+                  "definition": "Third party has authority to impose binding decisions",
+                  "examples": ["Labor arbitration", "Commercial arbitration", "Grievance procedures"]
+                },
+                {
+                  "name": "Conciliation",
+                  "definition": "Trusted third party provides informal communication link",
+                  "examples": ["Building trust", "Facilitating dialogue", "Reducing tensions"]
+                },
+                {
+                  "name": "Consultation",
+                  "definition": "Third party helps improve relationships and problem-solving",
+                  "examples": ["Process consultation", "Team building", "Organizational development"]
+                }
+              ]
+            }
+          ]
+        }
       ],
       "totalPages": 36
     },
@@ -203,6 +881,423 @@
         "Ethical use of power requires satisfying criteria of utilitarian outcomes, individual rights, distributive justice, and consideration of overwhelming factors",
         "Effective power use requires recognizing multiple interests, assessing positions, understanding strategies, and building sufficient power to overcome opposition"
       ],
+      "sections": [
+        {
+          "title": "Introduction to Power and Influence",
+          "level": 1,
+          "content": "Foundational concepts of power and influence in organizational settings",
+          "concepts": [
+            {
+              "name": "Power",
+              "definition": "The capability to influence others; the potential to affect behavior",
+              "examples": ["Authority to make decisions", "Control over resources", "Expert knowledge"]
+            },
+            {
+              "name": "Influence",
+              "definition": "Power in action; the actual use of power to affect outcomes",
+              "examples": ["Persuading colleagues", "Changing opinions", "Directing behavior"]
+            },
+            {
+              "name": "Relational Nature",
+              "definition": "Power exists only in relationships between people or groups, not in isolation",
+              "examples": ["Manager-employee relationships", "Interdepartmental dynamics", "Organizational hierarchies"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "The Concept of Power",
+          "level": 1,
+          "content": "Understanding power dynamics and their importance in organizations",
+          "concepts": [
+            {
+              "name": "Importance of Understanding Power",
+              "definition": "Success requires understanding power, knowing how and when to use it, and anticipating its effects",
+              "examples": ["Strategic decision-making", "Organizational change", "Resource allocation"]
+            },
+            {
+              "name": "Power as Tool",
+              "definition": "Power can be used constructively or destructively",
+              "examples": ["Achieving goals", "Building coalitions", "Overcoming resistance"]
+            },
+            {
+              "name": "Ubiquity of Power",
+              "definition": "Power is pervasive in organizational life, used by managers and non-managers alike",
+              "examples": ["Formal authority", "Informal influence", "Social networks"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Sources of Power",
+          "level": 1,
+          "content": "Different bases and origins of power in organizations",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Interpersonal Power Bases",
+              "level": 2,
+              "content": "Five sources of power in interpersonal relationships",
+              "concepts": [
+                {
+                  "name": "Legitimate Power",
+                  "definition": "Power based on formal position and authority (organizational)",
+                  "examples": ["Job title", "Hierarchical position", "Official role"]
+                },
+                {
+                  "name": "Reward Power",
+                  "definition": "Power based on ability to provide valued rewards (organizational)",
+                  "examples": ["Salary increases", "Promotions", "Recognition", "Desirable assignments"]
+                },
+                {
+                  "name": "Coercive Power",
+                  "definition": "Power based on ability to punish or withhold rewards (organizational)",
+                  "examples": ["Disciplinary actions", "Demotions", "Termination", "Undesirable assignments"]
+                },
+                {
+                  "name": "Expert Power",
+                  "definition": "Power based on specialized knowledge or skills (personal)",
+                  "examples": ["Technical expertise", "Professional credentials", "Unique competencies"]
+                },
+                {
+                  "name": "Referent Power",
+                  "definition": "Power based on personal characteristics and charisma (personal)",
+                  "examples": ["Likability", "Charisma", "Personal appeal", "Role model status"]
+                }
+              ]
+            },
+            {
+              "title": "Structural Power",
+              "level": 2,
+              "content": "Power derived from organizational structure and position",
+              "concepts": [
+                {
+                  "name": "Resource Control",
+                  "definition": "Power from controlling valuable organizational resources",
+                  "examples": ["Budget authority", "Equipment access", "Personnel allocation"]
+                },
+                {
+                  "name": "Decision-Making Authority",
+                  "definition": "Power from formal decision rights",
+                  "examples": ["Strategic decisions", "Policy-making", "Approval authority"]
+                },
+                {
+                  "name": "Information Control",
+                  "definition": "Power from access to and control of information",
+                  "examples": ["Confidential data", "Strategic information", "Network position"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Powerlessness in Organizations",
+          "level": 1,
+          "content": "Understanding and addressing lack of power at different organizational levels",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "First-Line Supervisors",
+              "level": 2,
+              "content": "Powerlessness issues at supervisory level",
+              "concepts": [
+                {
+                  "name": "Symptoms",
+                  "definition": "Signs of powerlessness in supervisors",
+                  "examples": ["Overly close supervision", "Rules-focused behavior", "Territorial protection"]
+                },
+                {
+                  "name": "Sources",
+                  "definition": "Causes of supervisor powerlessness",
+                  "examples": ["Limited authority", "Lack of resources", "Insufficient training", "Poor top management support"]
+                }
+              ]
+            },
+            {
+              "title": "Staff Professionals",
+              "level": 2,
+              "content": "Powerlessness issues for staff positions",
+              "concepts": [
+                {
+                  "name": "Symptoms",
+                  "definition": "Signs of powerlessness in staff roles",
+                  "examples": ["Focus on procedures", "Turf protection", "Inflexibility"]
+                },
+                {
+                  "name": "Sources",
+                  "definition": "Causes of staff powerlessness",
+                  "examples": ["Limited line authority", "Unclear roles", "Lack of credibility", "Isolation from key decisions"]
+                }
+              ]
+            },
+            {
+              "title": "Top Managers",
+              "level": 2,
+              "content": "Powerlessness issues at executive level",
+              "concepts": [
+                {
+                  "name": "Symptoms",
+                  "definition": "Signs of powerlessness in executives",
+                  "examples": ["Focus on details", "Short-term thinking", "Top-down directives"]
+                },
+                {
+                  "name": "Sources",
+                  "definition": "Causes of executive powerlessness",
+                  "examples": ["Environmental constraints", "Board limitations", "Organizational complexity", "Stakeholder pressures"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Empowerment",
+          "level": 1,
+          "content": "Process of enhancing feelings of self-efficacy by removing conditions that foster powerlessness",
+          "concepts": [
+            {
+              "name": "Empowerment Definition",
+              "definition": "Enabling employees to take initiative and make decisions within their sphere of operations",
+              "examples": ["Delegating authority", "Providing resources", "Removing barriers"]
+            },
+            {
+              "name": "Self-Efficacy Enhancement",
+              "definition": "Building confidence in ability to perform tasks",
+              "examples": ["Training programs", "Skill development", "Success experiences"]
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Five-Stage Empowerment Process",
+              "level": 2,
+              "content": "Steps to empower employees effectively",
+              "concepts": [
+                {
+                  "name": "Stage 1: Identify Conditions",
+                  "definition": "Recognize conditions causing powerlessness",
+                  "examples": ["Lack of resources", "Unclear goals", "Limited authority"]
+                },
+                {
+                  "name": "Stage 2: Use Managerial Strategies",
+                  "definition": "Implement empowering practices and policies",
+                  "examples": ["Participative management", "Goal setting", "Feedback systems"]
+                },
+                {
+                  "name": "Stage 3: Provide Self-Efficacy Information",
+                  "definition": "Give information that builds confidence",
+                  "examples": ["Success feedback", "Role models", "Verbal persuasion"]
+                },
+                {
+                  "name": "Stage 4: Results in Empowerment",
+                  "definition": "Employees feel strengthened and capable",
+                  "examples": ["Increased confidence", "Greater initiative", "Enhanced commitment"]
+                },
+                {
+                  "name": "Stage 5: Behavioral Effects",
+                  "definition": "Observable changes in employee behavior",
+                  "examples": ["Increased effort", "Better performance", "Greater persistence"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subunit Power",
+          "level": 1,
+          "content": "Power dynamics between organizational units based on strategic contingencies",
+          "concepts": [
+            {
+              "name": "Coping with Uncertainty",
+              "definition": "Subunits gain power by reducing critical uncertainties",
+              "examples": ["R&D managing technological uncertainty", "Legal managing regulatory uncertainty", "Marketing managing market uncertainty"]
+            },
+            {
+              "name": "Centrality",
+              "definition": "Power from being central to organizational workflows",
+              "examples": ["Production in manufacturing", "IT in tech companies", "Finance in financial services"]
+            },
+            {
+              "name": "Substitutability",
+              "definition": "Power diminishes when functions can be easily replaced",
+              "examples": ["Unique expertise increases power", "Standardized functions decrease power", "Outsourcing potential reduces power"]
+            }
+          ],
+          "subsections": [
+            {
+              "title": "The Illusion of Power",
+              "level": 2,
+              "content": "Perceived power can be as influential as actual power",
+              "concepts": [
+                {
+                  "name": "Power Perception",
+                  "definition": "How others perceive one's power affects their behavior",
+                  "examples": ["Confidence projection", "Status symbols", "Network connections"]
+                },
+                {
+                  "name": "Self-Fulfilling Prophecy",
+                  "definition": "Perceived power can create actual power",
+                  "examples": ["Acting powerfully increases influence", "Appearing confident gains credibility"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Political Strategies and Tactics",
+          "level": 1,
+          "content": "Use of power and influence to achieve objectives in organizations",
+          "concepts": [
+            {
+              "name": "Political Behavior",
+              "definition": "Actions taken to acquire, develop, and use power to obtain preferred outcomes",
+              "examples": ["Building coalitions", "Controlling information", "Creating obligations"]
+            },
+            {
+              "name": "Reasons for Politics",
+              "definition": "Why political behavior occurs in organizations",
+              "examples": ["Resisting authority", "Building power bases", "Defeating rivals", "Bringing about change"]
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Nine Influence Tactics",
+              "level": 2,
+              "content": "Specific approaches to influencing others, varying in effectiveness",
+              "concepts": [
+                {
+                  "name": "Inspiration",
+                  "definition": "Appealing to values and ideals (highest commitment)",
+                  "examples": ["Vision statements", "Emotional appeals", "Motivational messages"]
+                },
+                {
+                  "name": "Consultation",
+                  "definition": "Seeking participation in decisions (highest commitment)",
+                  "examples": ["Asking for input", "Collaborative planning", "Joint problem-solving"]
+                },
+                {
+                  "name": "Rational Persuasion",
+                  "definition": "Using logic and facts",
+                  "examples": ["Data presentation", "Logical arguments", "Cost-benefit analysis"]
+                },
+                {
+                  "name": "Ingratiation",
+                  "definition": "Using flattery and praise",
+                  "examples": ["Compliments", "Favorable impression", "Agreement"]
+                },
+                {
+                  "name": "Personal Appeals",
+                  "definition": "Appealing to friendship or loyalty",
+                  "examples": ["Personal favors", "Friendship bonds", "Past relationships"]
+                },
+                {
+                  "name": "Exchange",
+                  "definition": "Offering benefits for compliance",
+                  "examples": ["Quid pro quo", "Trading favors", "Reciprocity"]
+                },
+                {
+                  "name": "Legitimating",
+                  "definition": "Claiming authority or right",
+                  "examples": ["Policy references", "Organizational rules", "Formal authority"]
+                },
+                {
+                  "name": "Pressure",
+                  "definition": "Using demands and threats (most resistance)",
+                  "examples": ["Deadlines", "Warnings", "Demands"]
+                },
+                {
+                  "name": "Coalition",
+                  "definition": "Enlisting others' support (most resistance)",
+                  "examples": ["Building alliances", "Group pressure", "Collective action"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Impression Management",
+          "level": 1,
+          "content": "Controlling the impressions others form of oneself",
+          "concepts": [
+            {
+              "name": "Universal Practice",
+              "definition": "Everyone engages in impression management",
+              "examples": ["Interview behavior", "Professional demeanor", "Strategic self-presentation"]
+            },
+            {
+              "name": "Credibility Risk",
+              "definition": "Creating false impressions damages long-term credibility",
+              "examples": ["Dishonesty exposure", "Inconsistent behavior", "Trust erosion"]
+            },
+            {
+              "name": "Authentic Presentation",
+              "definition": "Presenting best aspects of genuine self",
+              "examples": ["Highlighting strengths", "Professional appearance", "Competence demonstration"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Ethics and Power",
+          "level": 1,
+          "content": "Ethical considerations in the use of power and influence",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Ethical Criteria",
+              "level": 2,
+              "content": "Four criteria for ethical use of power",
+              "concepts": [
+                {
+                  "name": "Utilitarian Outcomes",
+                  "definition": "Power use should produce greatest good for greatest number",
+                  "examples": ["Benefit analysis", "Stakeholder consideration", "Long-term impacts"]
+                },
+                {
+                  "name": "Individual Rights",
+                  "definition": "Power use must respect fundamental human rights",
+                  "examples": ["Dignity", "Privacy", "Fair treatment", "Due process"]
+                },
+                {
+                  "name": "Distributive Justice",
+                  "definition": "Benefits and burdens should be distributed fairly",
+                  "examples": ["Equitable treatment", "Fair procedures", "Proportional outcomes"]
+                },
+                {
+                  "name": "Overwhelming Factors",
+                  "definition": "Consideration of extenuating circumstances",
+                  "examples": ["Crisis situations", "Emergency decisions", "Competing obligations"]
+                }
+              ]
+            },
+            {
+              "title": "Effective Power Use",
+              "level": 2,
+              "content": "Guidelines for successful power application",
+              "concepts": [
+                {
+                  "name": "Recognize Multiple Interests",
+                  "definition": "Understand various stakeholder perspectives",
+                  "examples": ["Identifying key players", "Understanding motivations", "Mapping interests"]
+                },
+                {
+                  "name": "Assess Positions",
+                  "definition": "Evaluate power positions of all parties",
+                  "examples": ["Power analysis", "Stakeholder mapping", "Influence assessment"]
+                },
+                {
+                  "name": "Understand Strategies",
+                  "definition": "Comprehend different approaches to power use",
+                  "examples": ["Coalition building", "Resource control", "Information management"]
+                },
+                {
+                  "name": "Build Sufficient Power",
+                  "definition": "Develop adequate power to overcome opposition",
+                  "examples": ["Developing expertise", "Building networks", "Acquiring resources"]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "totalPages": 39
     },
     {
@@ -221,6 +1316,392 @@
         "Key improvement techniques include following up, utilizing feedback, empathy, repetition, building trust, effective timing, and simplifying language",
         "Ethical communication requires avoiding deception, preventing harm, and treating all organization members justly",
         "Multicultural communication must consider differences in words, space, time, and behavior across cultures"
+      ],
+      "sections": [
+        {
+          "title": "Introduction to Organizational Communication",
+          "level": 1,
+          "content": "Communication as the foundation of all organizational activities",
+          "concepts": [
+            {
+              "name": "Communication Definition",
+              "definition": "The transmission of information and understanding through the use of common symbols from one person or group to another",
+              "examples": ["Verbal messages", "Written documents", "Nonverbal signals"]
+            },
+            {
+              "name": "Importance",
+              "definition": "Essential for coordination, decision-making, and organizational effectiveness",
+              "examples": ["Team collaboration", "Strategic alignment", "Problem-solving"]
+            },
+            {
+              "name": "Two-Way Process",
+              "definition": "Communication requires both sending and receiving information with understanding",
+              "examples": ["Dialogue", "Feedback loops", "Interactive discussions"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "The Communication Model",
+          "level": 1,
+          "content": "Seven key elements that comprise the communication process",
+          "concepts": [
+            {
+              "name": "Communicator (Sender)",
+              "definition": "The person initiating the message",
+              "examples": ["Manager", "Employee", "Team leader"]
+            },
+            {
+              "name": "Encoding",
+              "definition": "Converting ideas into symbols or words",
+              "examples": ["Writing an email", "Preparing a presentation", "Choosing words"]
+            },
+            {
+              "name": "Message",
+              "definition": "The encoded information being transmitted",
+              "examples": ["Email content", "Verbal instructions", "Written report"]
+            },
+            {
+              "name": "Medium (Channel)",
+              "definition": "The means by which the message travels",
+              "examples": ["Email", "Face-to-face", "Phone", "Video conference"]
+            },
+            {
+              "name": "Decoding",
+              "definition": "Receiver's interpretation of the message",
+              "examples": ["Reading email", "Listening to instructions", "Understanding report"]
+            },
+            {
+              "name": "Receiver",
+              "definition": "The person receiving and interpreting the message",
+              "examples": ["Employee", "Manager", "Team member"]
+            },
+            {
+              "name": "Feedback",
+              "definition": "Receiver's response to the message",
+              "examples": ["Confirmation", "Questions", "Actions taken"]
+            },
+            {
+              "name": "Noise",
+              "definition": "Anything that interferes with communication",
+              "examples": ["Physical distractions", "Language barriers", "Emotional states", "Technical problems"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Nonverbal Communication",
+          "level": 1,
+          "content": "Communication through means other than words, often as important as verbal communication",
+          "concepts": [
+            {
+              "name": "Body Language",
+              "definition": "Physical movements and postures conveying meaning",
+              "examples": ["Posture", "Gestures", "Movement patterns"]
+            },
+            {
+              "name": "Facial Expressions",
+              "definition": "Face movements revealing emotions and reactions",
+              "examples": ["Smiling", "Frowning", "Eye contact", "Raised eyebrows"]
+            },
+            {
+              "name": "Gestures",
+              "definition": "Hand and arm movements communicating messages",
+              "examples": ["Pointing", "Waving", "Thumbs up", "Nodding"]
+            },
+            {
+              "name": "Proxemics",
+              "definition": "Use of personal space in communication",
+              "examples": ["Physical distance", "Territorial behavior", "Seating arrangements"]
+            },
+            {
+              "name": "Paralanguage",
+              "definition": "Vocal elements beyond words",
+              "examples": ["Tone of voice", "Volume", "Pitch", "Speaking rate"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Communication Flows in Organizations",
+          "level": 1,
+          "content": "Four main directions of information flow within organizational structures",
+          "concepts": [
+            {
+              "name": "Downward Communication",
+              "definition": "Information flowing from higher to lower levels",
+              "examples": ["Instructions", "Policies", "Feedback", "Job assignments"]
+            },
+            {
+              "name": "Upward Communication",
+              "definition": "Information flowing from lower to higher levels",
+              "examples": ["Reports", "Suggestions", "Complaints", "Performance data"]
+            },
+            {
+              "name": "Horizontal Communication",
+              "definition": "Information flowing between peers at same level",
+              "examples": ["Coordination", "Problem-solving", "Information sharing", "Peer support"]
+            },
+            {
+              "name": "Diagonal Communication",
+              "definition": "Information flowing across different levels and departments",
+              "examples": ["Cross-functional projects", "Matrix structures", "Informal networks"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Information Richness",
+          "level": 1,
+          "content": "The capacity of communication media to convey information and facilitate understanding",
+          "concepts": [
+            {
+              "name": "Face-to-Face Communication",
+              "definition": "Richest medium allowing immediate feedback and multiple cues",
+              "examples": ["In-person meetings", "Personal conversations", "Presentations"]
+            },
+            {
+              "name": "Video Conferencing",
+              "definition": "High richness with visual and audio cues",
+              "examples": ["Virtual meetings", "Remote presentations", "Video calls"]
+            },
+            {
+              "name": "Telephone",
+              "definition": "Moderate richness with audio cues only",
+              "examples": ["Phone conversations", "Conference calls", "Voice discussions"]
+            },
+            {
+              "name": "Email and Messaging",
+              "definition": "Lower richness with text-based asynchronous communication",
+              "examples": ["Email messages", "Instant messaging", "Text messages"]
+            },
+            {
+              "name": "Written Documents",
+              "definition": "Lowest richness with formal, permanent communication",
+              "examples": ["Reports", "Memos", "Letters", "Policies"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Technology and Communication",
+          "level": 1,
+          "content": "How technology has transformed organizational communication",
+          "concepts": [
+            {
+              "name": "Email",
+              "definition": "Electronic messaging for asynchronous communication",
+              "examples": ["Business correspondence", "Announcements", "Documentation"]
+            },
+            {
+              "name": "Instant Messaging",
+              "definition": "Real-time text-based communication",
+              "examples": ["Quick questions", "Team chat", "Collaboration platforms"]
+            },
+            {
+              "name": "Videoconferencing",
+              "definition": "Remote face-to-face communication",
+              "examples": ["Virtual meetings", "Remote collaboration", "Distance learning"]
+            },
+            {
+              "name": "Voice Mail",
+              "definition": "Recorded voice messages",
+              "examples": ["Message leaving", "Information sharing", "Follow-ups"]
+            },
+            {
+              "name": "Smartphones",
+              "definition": "Mobile devices enabling constant connectivity",
+              "examples": ["Mobile email", "Apps", "Remote access"]
+            },
+            {
+              "name": "Electronic Meetings",
+              "definition": "Technology-enabled collaborative meetings",
+              "examples": ["Virtual conferences", "Webinars", "Online collaboration"]
+            },
+            {
+              "name": "Social Media",
+              "definition": "Platforms for sharing and networking",
+              "examples": ["Internal networks", "Professional platforms", "Collaboration tools"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Barriers to Effective Communication",
+          "level": 1,
+          "content": "Obstacles that impede accurate information transmission and understanding",
+          "concepts": [
+            {
+              "name": "Frame of Reference",
+              "definition": "Different backgrounds and experiences affecting interpretation",
+              "examples": ["Cultural differences", "Educational backgrounds", "Personal experiences"]
+            },
+            {
+              "name": "Selective Listening",
+              "definition": "Hearing only what one wants to hear",
+              "examples": ["Filtering information", "Ignoring negative feedback", "Confirmation bias"]
+            },
+            {
+              "name": "Filtering",
+              "definition": "Manipulating information to appear favorable",
+              "examples": ["Withholding bad news", "Distorting messages", "Selective reporting"]
+            },
+            {
+              "name": "Status Differences",
+              "definition": "Hierarchical gaps affecting communication openness",
+              "examples": ["Power distance", "Intimidation", "Reluctance to speak up"]
+            },
+            {
+              "name": "Communication Overload",
+              "definition": "Too much information to process effectively",
+              "examples": ["Email overload", "Information excess", "Multiple channels"]
+            },
+            {
+              "name": "Semantic Problems",
+              "definition": "Misunderstandings due to word meanings",
+              "examples": ["Jargon", "Technical terms", "Ambiguous language"]
+            },
+            {
+              "name": "Time Pressure",
+              "definition": "Insufficient time for complete communication",
+              "examples": ["Rushed messages", "Incomplete information", "Hasty decisions"]
+            },
+            {
+              "name": "Emotions",
+              "definition": "Emotional states affecting message interpretation",
+              "examples": ["Anger", "Stress", "Anxiety", "Excitement"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Improving Organizational Communication",
+          "level": 1,
+          "content": "Techniques and strategies for enhancing communication effectiveness",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Message Quality Enhancement",
+              "level": 2,
+              "content": "Improving the clarity and effectiveness of messages sent",
+              "concepts": [
+                {
+                  "name": "Following Up",
+                  "definition": "Ensuring messages are received and understood",
+                  "examples": ["Confirmation requests", "Progress checks", "Clarification discussions"]
+                },
+                {
+                  "name": "Utilizing Feedback",
+                  "definition": "Seeking and using receiver responses",
+                  "examples": ["Questions", "Paraphrasing", "Confirmation"]
+                },
+                {
+                  "name": "Simplifying Language",
+                  "definition": "Using clear, straightforward communication",
+                  "examples": ["Avoiding jargon", "Short sentences", "Plain language"]
+                },
+                {
+                  "name": "Effective Timing",
+                  "definition": "Choosing appropriate moments for communication",
+                  "examples": ["Considering receiver availability", "Avoiding stressful times", "Planning important discussions"]
+                },
+                {
+                  "name": "Repetition",
+                  "definition": "Reinforcing key messages through multiple channels",
+                  "examples": ["Multiple communications", "Different formats", "Consistent messages"]
+                }
+              ]
+            },
+            {
+              "title": "Understanding Enhancement",
+              "level": 2,
+              "content": "Improving the reception and interpretation of messages",
+              "concepts": [
+                {
+                  "name": "Empathy",
+                  "definition": "Understanding others' perspectives and feelings",
+                  "examples": ["Active listening", "Perspective-taking", "Emotional awareness"]
+                },
+                {
+                  "name": "Active Listening",
+                  "definition": "Fully concentrating on and understanding messages",
+                  "examples": ["Full attention", "No interruptions", "Clarifying questions", "Summarizing"]
+                },
+                {
+                  "name": "Building Trust",
+                  "definition": "Creating environment conducive to open communication",
+                  "examples": ["Honesty", "Consistency", "Reliability", "Confidentiality"]
+                },
+                {
+                  "name": "Awareness of Nonverbal Cues",
+                  "definition": "Recognizing and interpreting body language",
+                  "examples": ["Observing gestures", "Reading facial expressions", "Noting tone"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethics in Communication",
+          "level": 1,
+          "content": "Moral principles guiding organizational communication",
+          "concepts": [
+            {
+              "name": "Avoiding Deception",
+              "definition": "Communicating truthfully and honestly",
+              "examples": ["Accurate information", "Transparent communication", "Honest feedback"]
+            },
+            {
+              "name": "Preventing Harm",
+              "definition": "Ensuring communication doesn't damage others",
+              "examples": ["Respectful language", "Constructive feedback", "Protecting privacy"]
+            },
+            {
+              "name": "Just Treatment",
+              "definition": "Treating all organization members fairly in communication",
+              "examples": ["Equal access to information", "Fair hearing", "Unbiased communication"]
+            },
+            {
+              "name": "Respecting Privacy",
+              "definition": "Protecting confidential information",
+              "examples": ["Confidentiality", "Data protection", "Discretion"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Multicultural Communication",
+          "level": 1,
+          "content": "Considerations for effective communication across cultural boundaries",
+          "concepts": [
+            {
+              "name": "Words and Language",
+              "definition": "Variations in meaning across cultures",
+              "examples": ["Translation issues", "Idioms", "Slang", "Technical terms"]
+            },
+            {
+              "name": "Space",
+              "definition": "Cultural differences in personal space and proximity",
+              "examples": ["Comfortable distances", "Touch norms", "Office layout preferences"]
+            },
+            {
+              "name": "Time",
+              "definition": "Different cultural orientations to time",
+              "examples": ["Punctuality norms", "Meeting duration", "Deadlines", "Monochronic vs. polychronic"]
+            },
+            {
+              "name": "Behavior and Context",
+              "definition": "High-context vs. low-context communication styles",
+              "examples": ["Direct vs. indirect communication", "Explicit vs. implicit messages", "Relationship importance"]
+            },
+            {
+              "name": "Cultural Sensitivity",
+              "definition": "Awareness and respect for cultural differences",
+              "examples": ["Learning cultural norms", "Adapting communication styles", "Avoiding stereotypes"]
+            }
+          ],
+          "subsections": []
+        }
       ],
       "totalPages": 26
     },
@@ -333,6 +1814,247 @@
         "Emotional intelligence combines self-awareness, self-control, empathy, and sensitivity to others' feelings, working with other factors like integrity, persistence, and passion for career success",
         "Body language (kinesics) includes the chameleon effect where people unconsciously mimic others' postures and gestures"
       ],
+      "sections": [
+        {
+          "title": "Perception",
+          "level": 1,
+          "content": "The process by which we select, organize, and interpret our sensory impressions in order to give meaning to the environment",
+          "concepts": [
+            {
+              "name": "Observation",
+              "definition": "The process of receiving stimuli through the five senses",
+              "examples": []
+            },
+            {
+              "name": "Selection",
+              "definition": "The process of screening out most stimuli to focus on specific stimuli of interest",
+              "examples": []
+            },
+            {
+              "name": "Translation",
+              "definition": "The process of converting stimuli into meaningful patterns",
+              "examples": []
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Perceptual Grouping",
+              "level": 2,
+              "content": "People tend to organize perceptions into groups or patterns according to certain laws",
+              "concepts": [
+                {
+                  "name": "Law of Nearness",
+                  "definition": "Elements close together tend to be perceived as a group",
+                  "examples": []
+                },
+                {
+                  "name": "Law of Similarity",
+                  "definition": "Similar objects are perceived as forming a group",
+                  "examples": []
+                },
+                {
+                  "name": "Law of Closure",
+                  "definition": "The tendency to perceive complete patterns even when information is missing",
+                  "examples": []
+                },
+                {
+                  "name": "Figure-Ground Relationship",
+                  "definition": "The tendency to organize perceptions into figures (objects of focus) and ground (background)",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Common Perceptual Errors",
+          "level": 1,
+          "content": "Systematic biases that affect how we perceive and interpret information",
+          "concepts": [
+            {
+              "name": "Stereotyping",
+              "definition": "The tendency to attribute certain characteristics to a person based on their group membership",
+              "examples": []
+            },
+            {
+              "name": "Selective Attention",
+              "definition": "The tendency to focus on certain stimuli while ignoring others",
+              "examples": []
+            },
+            {
+              "name": "Halo Effect",
+              "definition": "The tendency to form an overall impression based on a single characteristic",
+              "examples": []
+            },
+            {
+              "name": "Similar-to-Me Errors",
+              "definition": "The tendency to perceive those similar to oneself more favorably",
+              "examples": []
+            },
+            {
+              "name": "Situational Factors",
+              "definition": "Environmental and contextual influences on perception",
+              "examples": []
+            },
+            {
+              "name": "Personal Needs",
+              "definition": "The influence of individual needs and desires on perception",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "title": "Attribution Theory",
+          "level": 1,
+          "content": "Theory about how individuals explain the causes of behavior and events",
+          "concepts": [
+            {
+              "name": "Internal Attribution",
+              "definition": "Attributing behavior to personal factors like personality or ability",
+              "examples": []
+            },
+            {
+              "name": "External Attribution",
+              "definition": "Attributing behavior to situational factors like luck or task difficulty",
+              "examples": []
+            },
+            {
+              "name": "Distinctiveness",
+              "definition": "Whether the person behaves differently in different situations",
+              "examples": []
+            },
+            {
+              "name": "Consistency",
+              "definition": "Whether the person behaves the same way over time",
+              "examples": []
+            },
+            {
+              "name": "Consensus",
+              "definition": "Whether others behave similarly in the same situation",
+              "examples": []
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Impression Management",
+              "level": 2,
+              "content": "Tactics individuals use to control how others perceive them",
+              "concepts": [
+                {
+                  "name": "Ingratiation",
+                  "definition": "Using flattery and conformity to be liked",
+                  "examples": []
+                },
+                {
+                  "name": "Self-Promotion",
+                  "definition": "Highlighting one's abilities and accomplishments",
+                  "examples": []
+                },
+                {
+                  "name": "Exemplification",
+                  "definition": "Presenting oneself as dedicated and committed",
+                  "examples": []
+                },
+                {
+                  "name": "Supplication",
+                  "definition": "Presenting oneself as needing help or support",
+                  "examples": []
+                },
+                {
+                  "name": "Intimidation",
+                  "definition": "Appearing threatening or powerful",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Emotions in Organizations",
+          "level": 1,
+          "content": "The role and impact of emotions in workplace behavior and performance",
+          "concepts": [
+            {
+              "name": "Primary Emotions",
+              "definition": "Universal basic emotions: fear, surprise, sadness, disgust, anger, joy, anticipation, acceptance",
+              "examples": []
+            },
+            {
+              "name": "Innate Emotions",
+              "definition": "Universal emotional expressions that are biologically determined",
+              "examples": []
+            },
+            {
+              "name": "Learned Emotions",
+              "definition": "Culturally specific emotional expressions",
+              "examples": []
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Emotional Labor",
+              "level": 2,
+              "content": "The requirement to express certain emotions as part of job performance",
+              "concepts": [
+                {
+                  "name": "Surface Acting",
+                  "definition": "Regulating emotional expressions without changing feelings",
+                  "examples": []
+                },
+                {
+                  "name": "Deep Acting",
+                  "definition": "Modifying one's actual feelings to match required expressions",
+                  "examples": []
+                },
+                {
+                  "name": "Emotional Labor Consequences",
+                  "definition": "Can lead to stress and burnout when sustained over time",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "title": "Emotional Intelligence",
+              "level": 2,
+              "content": "The ability to understand and manage emotions in oneself and others",
+              "concepts": [
+                {
+                  "name": "Self-Awareness",
+                  "definition": "Recognizing and understanding one's own emotions",
+                  "examples": []
+                },
+                {
+                  "name": "Self-Control",
+                  "definition": "Managing one's emotional responses",
+                  "examples": []
+                },
+                {
+                  "name": "Empathy",
+                  "definition": "Understanding others' emotions and perspectives",
+                  "examples": []
+                },
+                {
+                  "name": "Sensitivity to Others",
+                  "definition": "Being aware of and responsive to others' feelings",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "title": "Body Language (Kinesics)",
+              "level": 2,
+              "content": "Nonverbal communication through physical behavior",
+              "concepts": [
+                {
+                  "name": "Chameleon Effect",
+                  "definition": "The unconscious mimicry of others' postures and gestures during interaction",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "totalPages": 31
     },
     {
@@ -355,6 +2077,303 @@
         "Goal-setting theory emphasizes that specific, challenging, accepted goals lead to higher performance",
         "Effective goals should be SMARTER: Specific, Measurable, Attainable, Related, Timed, Extended, and Rewarded",
         "Psychological contracts are unwritten agreements that may take precedence over formal contracts and significantly influence motivation"
+      ],
+      "sections": [
+        {
+          "title": "Understanding Motivation",
+          "level": 1,
+          "content": "Motivation is the processes that account for an individual's intensity, direction, and persistence of effort toward attaining a goal",
+          "concepts": [
+            {
+              "name": "Intensity",
+              "definition": "How hard a person tries",
+              "examples": []
+            },
+            {
+              "name": "Direction",
+              "definition": "Effort channeled toward organizational goals",
+              "examples": []
+            },
+            {
+              "name": "Persistence",
+              "definition": "How long a person can maintain effort",
+              "examples": []
+            }
+          ],
+          "subsections": [
+            {
+              "title": "Job Performance Determinants",
+              "level": 2,
+              "content": "Three factors determine job performance",
+              "concepts": [
+                {
+                  "name": "Capacity to Perform",
+                  "definition": "Employee's ability, skills, and knowledge",
+                  "examples": []
+                },
+                {
+                  "name": "Willingness to Perform",
+                  "definition": "Employee's motivation to exert effort",
+                  "examples": []
+                },
+                {
+                  "name": "Opportunity to Perform",
+                  "definition": "Availability of resources, information, and support",
+                  "examples": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Content Theories of Motivation",
+          "level": 1,
+          "content": "Content theories focus on WHAT motivates people by identifying specific needs that drive behavior",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Maslow's Hierarchy of Needs",
+              "level": 2,
+              "content": "Five-level hierarchy where lower needs must be satisfied before higher needs become motivating",
+              "concepts": [
+                {
+                  "name": "Physiological Needs",
+                  "definition": "Basic survival needs (food, water, shelter)",
+                  "examples": ["Salary", "Comfortable working conditions"]
+                },
+                {
+                  "name": "Safety Needs",
+                  "definition": "Security and protection from physical and emotional harm",
+                  "examples": ["Job security", "Safe working environment", "Health insurance"]
+                },
+                {
+                  "name": "Belongingness Needs",
+                  "definition": "Social acceptance, affection, and friendship",
+                  "examples": ["Team membership", "Workplace relationships", "Social activities"]
+                },
+                {
+                  "name": "Esteem Needs",
+                  "definition": "Recognition, status, and respect from others",
+                  "examples": ["Promotions", "Awards", "Job titles", "Recognition programs"]
+                },
+                {
+                  "name": "Self-Actualization Needs",
+                  "definition": "Achieving one's full potential and self-fulfillment",
+                  "examples": ["Challenging assignments", "Personal growth opportunities", "Creative projects"]
+                }
+              ]
+            },
+            {
+              "title": "Alderfer's ERG Theory",
+              "level": 2,
+              "content": "Three-level need hierarchy with both satisfaction-progression and frustration-regression processes",
+              "concepts": [
+                {
+                  "name": "Existence Needs",
+                  "definition": "Material and physiological desires (combines Maslow's physiological and safety needs)",
+                  "examples": ["Pay", "Benefits", "Working conditions"]
+                },
+                {
+                  "name": "Relatedness Needs",
+                  "definition": "Desire for interpersonal relationships (corresponds to Maslow's belongingness)",
+                  "examples": ["Social interactions", "Team collaboration", "Mentoring"]
+                },
+                {
+                  "name": "Growth Needs",
+                  "definition": "Desire for personal development (combines Maslow's esteem and self-actualization)",
+                  "examples": ["Skill development", "Career advancement", "Creative contributions"]
+                },
+                {
+                  "name": "Satisfaction-Progression",
+                  "definition": "Satisfying lower-level needs enables focus on higher-level needs",
+                  "examples": []
+                },
+                {
+                  "name": "Frustration-Regression",
+                  "definition": "Frustration with higher-level needs causes regression to lower-level needs",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "title": "Herzberg's Two-Factor Theory",
+              "level": 2,
+              "content": "Distinguishes between hygiene factors (prevent dissatisfaction) and motivators (create satisfaction)",
+              "concepts": [
+                {
+                  "name": "Hygiene Factors",
+                  "definition": "Factors that prevent dissatisfaction but do not motivate when present",
+                  "examples": ["Salary", "Company policies", "Supervision quality", "Working conditions", "Job security"]
+                },
+                {
+                  "name": "Motivators",
+                  "definition": "Factors that create satisfaction and motivate higher performance",
+                  "examples": ["Achievement", "Recognition", "Responsibility", "Advancement", "Work itself", "Personal growth"]
+                }
+              ]
+            },
+            {
+              "title": "McClelland's Learned Needs Theory",
+              "level": 2,
+              "content": "Three learned needs acquired through life experiences drive behavior",
+              "concepts": [
+                {
+                  "name": "Need for Achievement (n Ach)",
+                  "definition": "Drive to excel, achieve in relation to standards, and strive for success",
+                  "examples": ["Setting challenging goals", "Taking calculated risks", "Seeking feedback on performance"]
+                },
+                {
+                  "name": "Need for Affiliation (n Aff)",
+                  "definition": "Desire for friendly and close interpersonal relationships",
+                  "examples": ["Preference for cooperative situations", "Seeking approval and reassurance", "Building social networks"]
+                },
+                {
+                  "name": "Need for Power (n Pow)",
+                  "definition": "Desire to make others behave in a way they would not have otherwise",
+                  "examples": ["Seeking leadership positions", "Influencing others", "Gaining status and prestige"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Process Theories of Motivation",
+          "level": 1,
+          "content": "Process theories focus on HOW motivation works through cognitive processes and decision-making",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Vroom's Expectancy Theory",
+              "level": 2,
+              "content": "Motivation depends on the perceived relationship between effort, performance, and rewards",
+              "concepts": [
+                {
+                  "name": "Expectancy (E→P)",
+                  "definition": "Belief that effort will lead to desired performance level",
+                  "examples": ["'If I work hard, will I perform well?'", "Training and skill development"]
+                },
+                {
+                  "name": "Instrumentality (P→R)",
+                  "definition": "Belief that performance will lead to rewards",
+                  "examples": ["'If I perform well, will I be rewarded?'", "Performance-based pay systems"]
+                },
+                {
+                  "name": "Valence (V)",
+                  "definition": "Value or attractiveness of the reward to the individual",
+                  "examples": ["'How much do I value this reward?'", "Individual reward preferences"]
+                },
+                {
+                  "name": "Motivation Formula",
+                  "definition": "Motivation = Expectancy × Instrumentality × Valence",
+                  "examples": []
+                }
+              ]
+            },
+            {
+              "title": "Adams' Equity Theory",
+              "level": 2,
+              "content": "People compare their input-outcome ratios with others and take action to restore perceived inequities",
+              "concepts": [
+                {
+                  "name": "Inputs",
+                  "definition": "What employees contribute (effort, education, experience, skills)",
+                  "examples": ["Work effort", "Loyalty", "Commitment", "Creativity"]
+                },
+                {
+                  "name": "Outcomes",
+                  "definition": "What employees receive (pay, recognition, promotions, benefits)",
+                  "examples": ["Salary", "Benefits", "Recognition", "Status"]
+                },
+                {
+                  "name": "Comparison Process",
+                  "definition": "Comparing one's input-outcome ratio with referent others",
+                  "examples": ["Coworkers", "Industry standards", "Previous jobs"]
+                },
+                {
+                  "name": "Equity Restoration",
+                  "definition": "Actions taken to reduce perceived inequity",
+                  "examples": ["Changing inputs", "Changing outcomes", "Distorting perceptions", "Changing referents", "Leaving the situation"]
+                }
+              ]
+            },
+            {
+              "title": "Organizational Justice",
+              "level": 2,
+              "content": "Perceptions of fairness in organizational processes and outcomes",
+              "concepts": [
+                {
+                  "name": "Distributive Justice",
+                  "definition": "Perceived fairness of outcome distribution",
+                  "examples": ["Pay equity", "Promotion decisions", "Resource allocation"]
+                },
+                {
+                  "name": "Procedural Justice",
+                  "definition": "Perceived fairness of processes used to determine outcomes",
+                  "examples": ["Performance appraisal procedures", "Decision-making transparency", "Employee voice in decisions"]
+                },
+                {
+                  "name": "Interactional Justice",
+                  "definition": "Quality of interpersonal treatment during procedures",
+                  "examples": ["Respectful communication", "Honest explanations", "Dignified treatment"]
+                }
+              ]
+            },
+            {
+              "title": "Locke's Goal-Setting Theory",
+              "level": 2,
+              "content": "Specific, challenging, accepted goals lead to higher performance than vague or easy goals",
+              "concepts": [
+                {
+                  "name": "Goal Specificity",
+                  "definition": "Clarity and precision of goals",
+                  "examples": ["'Increase sales by 15%' vs 'Do your best'"]
+                },
+                {
+                  "name": "Goal Difficulty",
+                  "definition": "Challenging but attainable goals motivate higher performance",
+                  "examples": ["Stretch goals", "Incremental improvements"]
+                },
+                {
+                  "name": "Goal Acceptance",
+                  "definition": "Individual commitment to achieving the goal",
+                  "examples": ["Participative goal setting", "Understanding goal importance"]
+                },
+                {
+                  "name": "Feedback",
+                  "definition": "Information about progress toward goal achievement",
+                  "examples": ["Regular performance reviews", "Progress tracking systems"]
+                },
+                {
+                  "name": "SMARTER Goals",
+                  "definition": "Framework for effective goal setting",
+                  "examples": ["Specific, Measurable, Attainable, Related, Timed, Extended, Rewarded"]
+                }
+              ]
+            },
+            {
+              "title": "Psychological Contracts",
+              "level": 2,
+              "content": "Unwritten agreements between employees and employers that influence motivation and behavior",
+              "concepts": [
+                {
+                  "name": "Employee Expectations",
+                  "definition": "What employees believe they are entitled to receive",
+                  "examples": ["Job security", "Fair treatment", "Career development"]
+                },
+                {
+                  "name": "Employer Expectations",
+                  "definition": "What organizations believe employees should provide",
+                  "examples": ["Loyalty", "Performance", "Flexibility"]
+                },
+                {
+                  "name": "Contract Violation",
+                  "definition": "When one party perceives the other has failed to fulfill obligations",
+                  "examples": ["Broken promises", "Unmet expectations", "Changed conditions"]
+                }
+              ]
+            }
+          ]
+        }
       ],
       "totalPages": 35
     },
@@ -379,6 +2398,233 @@
         "Feedback serves both instructional and motivational purposes in performance management",
         "No research substantiates that extrinsic rewards have a negative effect on intrinsic motivation"
       ],
+      "sections": [
+        {
+          "title": "Performance Evaluation Systems",
+          "level": 1,
+          "content": "Systematic assessment of employee performance serving both judgmental and developmental purposes",
+          "concepts": [
+            {
+              "name": "Judgmental Purposes",
+              "definition": "Using evaluation results for administrative decisions",
+              "examples": ["Reward allocation", "Promotions", "Identifying high-potential employees", "Termination decisions"]
+            },
+            {
+              "name": "Developmental Purposes",
+              "definition": "Using evaluation results to improve performance",
+              "examples": ["Performance improvement planning", "Training needs identification", "Career development", "Feedback provision"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "360-Degree Feedback",
+          "level": 1,
+          "content": "Comprehensive evaluation approach gathering input from multiple sources to provide a complete performance picture",
+          "concepts": [
+            {
+              "name": "Multiple Rater Sources",
+              "definition": "Feedback collected from various organizational levels and perspectives",
+              "examples": ["Supervisors", "Peers", "Subordinates", "Self-assessment", "Customers"]
+            },
+            {
+              "name": "Comprehensive Assessment",
+              "definition": "Provides fuller picture of performance than single-source evaluation",
+              "examples": ["Leadership effectiveness", "Teamwork skills", "Communication abilities"]
+            },
+            {
+              "name": "Development Focus",
+              "definition": "Primarily used for developmental rather than judgmental purposes",
+              "examples": ["Identifying blind spots", "Discovering strengths", "Creating development plans"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Reinforcement Theory",
+          "level": 1,
+          "content": "Explains how consequences shape behavior through different types of reinforcement and punishment",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Types of Reinforcement",
+              "level": 2,
+              "content": "Four ways consequences influence future behavior",
+              "concepts": [
+                {
+                  "name": "Positive Reinforcement",
+                  "definition": "Adding a desirable consequence to increase behavior",
+                  "examples": ["Praise for good work", "Bonus for meeting targets", "Recognition awards"]
+                },
+                {
+                  "name": "Negative Reinforcement",
+                  "definition": "Removing an undesirable consequence to increase behavior",
+                  "examples": ["Stopping close supervision when performance improves", "Eliminating mandatory meetings for high performers"]
+                },
+                {
+                  "name": "Punishment",
+                  "definition": "Adding an undesirable consequence to decrease behavior",
+                  "examples": ["Reprimands", "Demotions", "Salary reductions"]
+                },
+                {
+                  "name": "Extinction",
+                  "definition": "Removing reinforcement to decrease behavior",
+                  "examples": ["Ignoring attention-seeking behavior", "Discontinuing praise for undesired actions"]
+                }
+              ]
+            },
+            {
+              "title": "Reinforcement Schedules",
+              "level": 2,
+              "content": "Timing and frequency of reinforcement delivery affects behavioral patterns",
+              "concepts": [
+                {
+                  "name": "Continuous Reinforcement",
+                  "definition": "Reinforcing every instance of desired behavior",
+                  "examples": ["Commission on every sale", "Immediate feedback for each task"]
+                },
+                {
+                  "name": "Fixed Interval",
+                  "definition": "Reinforcement at fixed time periods",
+                  "examples": ["Weekly paychecks", "Annual performance reviews"]
+                },
+                {
+                  "name": "Variable Interval",
+                  "definition": "Reinforcement at varying time intervals",
+                  "examples": ["Random quality checks", "Unscheduled visits by supervisors"]
+                },
+                {
+                  "name": "Fixed Ratio",
+                  "definition": "Reinforcement after a fixed number of responses",
+                  "examples": ["Bonus after every 100 units produced", "Commission structure"]
+                },
+                {
+                  "name": "Variable Ratio",
+                  "definition": "Reinforcement after varying numbers of responses",
+                  "examples": ["Sales bonuses with varying thresholds", "Recognition programs with unpredictable timing"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Individual Rewards",
+          "level": 1,
+          "content": "Compensation and recognition provided to employees, distinguishing between intrinsic and extrinsic rewards",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Intrinsic Rewards",
+              "level": 2,
+              "content": "Self-administered rewards derived from the work itself",
+              "concepts": [
+                {
+                  "name": "Achievement",
+                  "definition": "Sense of accomplishment from completing tasks",
+                  "examples": ["Completing challenging projects", "Solving complex problems"]
+                },
+                {
+                  "name": "Autonomy",
+                  "definition": "Freedom and independence in work",
+                  "examples": ["Self-directed work", "Decision-making authority"]
+                },
+                {
+                  "name": "Personal Growth",
+                  "definition": "Development and learning opportunities",
+                  "examples": ["Skill development", "Career advancement", "New experiences"]
+                }
+              ]
+            },
+            {
+              "title": "Extrinsic Rewards",
+              "level": 2,
+              "content": "Rewards provided by external sources",
+              "concepts": [
+                {
+                  "name": "Financial Rewards",
+                  "definition": "Monetary compensation and benefits",
+                  "examples": ["Salary", "Bonuses", "Stock options", "Profit sharing"]
+                },
+                {
+                  "name": "Benefits",
+                  "definition": "Non-wage compensation",
+                  "examples": ["Health insurance", "Retirement plans", "Paid time off"]
+                },
+                {
+                  "name": "Recognition",
+                  "definition": "Acknowledgment of contributions",
+                  "examples": ["Awards", "Public recognition", "Promotions"]
+                },
+                {
+                  "name": "Status Symbols",
+                  "definition": "Tangible indicators of position",
+                  "examples": ["Office location", "Job titles", "Company car"]
+                }
+              ]
+            },
+            {
+              "title": "Reward Effectiveness Factors",
+              "level": 2,
+              "content": "Conditions necessary for rewards to motivate performance",
+              "concepts": [
+                {
+                  "name": "Sufficiency",
+                  "definition": "Rewards must satisfy basic needs",
+                  "examples": ["Competitive salaries", "Adequate benefits"]
+                },
+                {
+                  "name": "Equity",
+                  "definition": "Rewards perceived as fair compared to others",
+                  "examples": ["Equal pay for equal work", "Merit-based increases"]
+                },
+                {
+                  "name": "Individual Orientation",
+                  "definition": "Rewards matched to individual preferences",
+                  "examples": ["Flexible benefits", "Personalized recognition"]
+                },
+                {
+                  "name": "Line of Sight",
+                  "definition": "Clear linkage between performance and rewards",
+                  "examples": ["Performance-based bonuses", "Transparent criteria"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Innovative Reward Systems",
+          "level": 1,
+          "content": "Modern compensation approaches designed to align rewards with organizational goals and employee performance",
+          "concepts": [
+            {
+              "name": "Skill-Based Pay",
+              "definition": "Compensation based on skills and competencies rather than job title",
+              "examples": ["Pay increases for acquiring new certifications", "Competency-based progression"]
+            },
+            {
+              "name": "Broadbanding",
+              "definition": "Consolidating multiple pay grades into fewer, wider bands",
+              "examples": ["Simplified pay structures", "Greater flexibility in compensation"]
+            },
+            {
+              "name": "Team-Based Rewards",
+              "definition": "Compensation tied to team performance",
+              "examples": ["Team bonuses", "Group incentives", "Shared goals"]
+            },
+            {
+              "name": "Gain-Sharing",
+              "definition": "Sharing productivity gains with employees",
+              "examples": ["Scanlon Plan", "Rucker Plan", "Improshare"]
+            },
+            {
+              "name": "Employee Stock Ownership Plans (ESOPs)",
+              "definition": "Providing employees with company stock ownership",
+              "examples": ["Stock options", "Equity grants", "Share purchase plans"]
+            }
+          ],
+          "subsections": []
+        }
+      ],
       "totalPages": 37
     },
     {
@@ -398,6 +2644,419 @@
         "Individual coping strategies include problem-focused and emotion-focused approaches, with various techniques like relaxation, meditation, and cognitive restructuring",
         "The underload-overload continuum shows optimal performance occurs at moderate stress levels",
         "Social support is an effective stress moderator providing predictability, purpose, and hope in stressful situations"
+      ],
+      "sections": [
+        {
+          "title": "The Organizational Stress Model",
+          "level": 1,
+          "content": "Comprehensive framework showing how stressors, individual differences, and organizational factors interact to produce stress outcomes",
+          "concepts": [
+            {
+              "name": "Stressors",
+              "definition": "Situations or events that place special physical or psychological demands on individuals",
+              "examples": []
+            },
+            {
+              "name": "Cognitive Appraisal",
+              "definition": "Individual's perception and interpretation of stressors",
+              "examples": ["Threat vs. challenge appraisal", "Perceived controllability"]
+            },
+            {
+              "name": "Coping Strategies",
+              "definition": "Methods individuals use to manage stress",
+              "examples": ["Problem-focused coping", "Emotion-focused coping"]
+            },
+            {
+              "name": "Moderators",
+              "definition": "Factors that influence the stress-outcome relationship",
+              "examples": ["Personality", "Social support", "Age", "Gender"]
+            },
+            {
+              "name": "Stress Outcomes",
+              "definition": "Consequences of stress on individuals and organizations",
+              "examples": ["Psychological", "Behavioral", "Cognitive", "Physiological"]
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "title": "Sources of Stress (Stressors)",
+          "level": 1,
+          "content": "Various factors originating from different domains that create stress for individuals",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Individual Stressors",
+              "level": 2,
+              "content": "Personal factors that create stress",
+              "concepts": [
+                {
+                  "name": "Role Conflict",
+                  "definition": "Incompatible demands or expectations",
+                  "examples": ["Conflicting job demands", "Work-family conflict"]
+                },
+                {
+                  "name": "Role Ambiguity",
+                  "definition": "Unclear expectations and responsibilities",
+                  "examples": ["Undefined job duties", "Unclear performance criteria"]
+                },
+                {
+                  "name": "Role Overload",
+                  "definition": "Excessive work demands exceeding capacity",
+                  "examples": ["Too many tasks", "Unrealistic deadlines", "Insufficient resources"]
+                },
+                {
+                  "name": "Career Development Stress",
+                  "definition": "Concerns about career progression",
+                  "examples": ["Job insecurity", "Lack of advancement", "Obsolescence fears"]
+                }
+              ]
+            },
+            {
+              "title": "Group Stressors",
+              "level": 2,
+              "content": "Stress arising from interpersonal and team dynamics",
+              "concepts": [
+                {
+                  "name": "Lack of Cohesiveness",
+                  "definition": "Weak bonds among team members",
+                  "examples": ["Poor team relationships", "Lack of trust"]
+                },
+                {
+                  "name": "Interpersonal Conflict",
+                  "definition": "Disagreements and tensions with others",
+                  "examples": ["Personality clashes", "Communication breakdowns"]
+                },
+                {
+                  "name": "Group Pressure",
+                  "definition": "Demands to conform to group norms",
+                  "examples": ["Peer pressure", "Groupthink"]
+                }
+              ]
+            },
+            {
+              "title": "Organizational Stressors",
+              "level": 2,
+              "content": "Stress from organizational structures, policies, and conditions",
+              "concepts": [
+                {
+                  "name": "Organizational Culture",
+                  "definition": "Cultural values and norms creating stress",
+                  "examples": ["High-pressure cultures", "Competitive environments"]
+                },
+                {
+                  "name": "Physical Work Conditions",
+                  "definition": "Environmental factors in the workplace",
+                  "examples": ["Noise", "Temperature extremes", "Poor lighting", "Crowding"]
+                },
+                {
+                  "name": "Organizational Change",
+                  "definition": "Transitions and transformations",
+                  "examples": ["Restructuring", "Mergers", "Technology changes"]
+                },
+                {
+                  "name": "Management Style",
+                  "definition": "Leadership approaches creating stress",
+                  "examples": ["Autocratic leadership", "Lack of support", "Micromanagement"]
+                }
+              ]
+            },
+            {
+              "title": "Non-Work Stressors",
+              "level": 2,
+              "content": "External life factors affecting work stress",
+              "concepts": [
+                {
+                  "name": "Family Issues",
+                  "definition": "Personal and family-related concerns",
+                  "examples": ["Marital problems", "Childcare", "Eldercare"]
+                },
+                {
+                  "name": "Financial Concerns",
+                  "definition": "Economic pressures and worries",
+                  "examples": ["Debt", "Living expenses", "Financial insecurity"]
+                },
+                {
+                  "name": "Life Changes",
+                  "definition": "Major life events and transitions",
+                  "examples": ["Moving", "Divorce", "Death of loved one"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stress Moderators",
+          "level": 1,
+          "content": "Individual and situational factors that influence how people respond to stress",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Personality Factors",
+              "level": 2,
+              "content": "Personality characteristics affecting stress responses",
+              "concepts": [
+                {
+                  "name": "Type A Personality",
+                  "definition": "Competitive, achievement-oriented, time-urgent, hostile individuals more susceptible to stress",
+                  "examples": ["Impatience", "Aggressive behavior", "Multiple task engagement"]
+                },
+                {
+                  "name": "Type B Personality",
+                  "definition": "Relaxed, patient, easy-going individuals less susceptible to stress",
+                  "examples": ["Calm demeanor", "Patient approach", "Balanced lifestyle"]
+                },
+                {
+                  "name": "Hardiness",
+                  "definition": "Personality characteristic involving commitment, control, and challenge that buffers stress",
+                  "examples": ["Viewing change as opportunity", "Feeling in control", "Being committed to activities"]
+                },
+                {
+                  "name": "Locus of Control",
+                  "definition": "Internal locus individuals experience less stress than external locus individuals",
+                  "examples": ["Internals feel more control", "Externals feel helpless"]
+                }
+              ]
+            },
+            {
+              "title": "Social Support",
+              "level": 2,
+              "content": "Network of relationships that buffer stress effects",
+              "concepts": [
+                {
+                  "name": "Emotional Support",
+                  "definition": "Empathy, caring, and understanding from others",
+                  "examples": ["Listening", "Encouragement", "Validation"]
+                },
+                {
+                  "name": "Instrumental Support",
+                  "definition": "Tangible assistance and resources",
+                  "examples": ["Help with tasks", "Providing information", "Offering services"]
+                },
+                {
+                  "name": "Informational Support",
+                  "definition": "Advice and guidance",
+                  "examples": ["Problem-solving suggestions", "Feedback", "Coaching"]
+                }
+              ]
+            },
+            {
+              "title": "Demographic Factors",
+              "level": 2,
+              "content": "Age, gender, and heredity influences on stress",
+              "concepts": [
+                {
+                  "name": "Age",
+                  "definition": "Experience and maturity affect stress perception and coping",
+                  "examples": ["Older workers may have better coping skills", "Younger workers face different stressors"]
+                },
+                {
+                  "name": "Gender",
+                  "definition": "Men and women may experience and cope with stress differently",
+                  "examples": ["Different stressor exposure", "Varied coping preferences"]
+                },
+                {
+                  "name": "Heredity",
+                  "definition": "Genetic predisposition to stress responses",
+                  "examples": ["Inherited stress reactivity", "Biological vulnerability"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Consequences of Stress",
+          "level": 1,
+          "content": "Multiple outcomes of stress affecting individuals and organizations",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Psychological Consequences",
+              "level": 2,
+              "content": "Mental and emotional effects of stress",
+              "concepts": [
+                {
+                  "name": "Anxiety",
+                  "definition": "Feelings of worry, nervousness, and unease",
+                  "examples": ["Work-related anxiety", "Performance anxiety"]
+                },
+                {
+                  "name": "Depression",
+                  "definition": "Persistent sadness and loss of interest",
+                  "examples": ["Job-related depression", "Burnout depression"]
+                },
+                {
+                  "name": "Job Dissatisfaction",
+                  "definition": "Negative feelings toward work",
+                  "examples": ["Reduced engagement", "Decreased commitment"]
+                },
+                {
+                  "name": "Burnout",
+                  "definition": "Chronic work stress characterized by emotional exhaustion, depersonalization, and reduced personal accomplishment",
+                  "examples": ["Feeling emotionally drained", "Cynicism toward work", "Reduced effectiveness"]
+                }
+              ]
+            },
+            {
+              "title": "Behavioral Consequences",
+              "level": 2,
+              "content": "Observable actions resulting from stress",
+              "concepts": [
+                {
+                  "name": "Decreased Performance",
+                  "definition": "Reduced productivity and quality of work",
+                  "examples": ["More errors", "Missed deadlines", "Lower output"]
+                },
+                {
+                  "name": "Absenteeism",
+                  "definition": "Increased absence from work",
+                  "examples": ["Sick days", "Unexplained absences"]
+                },
+                {
+                  "name": "Turnover",
+                  "definition": "Leaving the organization",
+                  "examples": ["Voluntary resignation", "Job-hopping"]
+                },
+                {
+                  "name": "Substance Abuse",
+                  "definition": "Increased use of alcohol, drugs, or tobacco",
+                  "examples": ["Excessive drinking", "Drug use", "Smoking"]
+                }
+              ]
+            },
+            {
+              "title": "Cognitive Consequences",
+              "level": 2,
+              "content": "Mental processing effects of stress",
+              "concepts": [
+                {
+                  "name": "Concentration Problems",
+                  "definition": "Difficulty focusing and maintaining attention",
+                  "examples": ["Mind wandering", "Inability to focus"]
+                },
+                {
+                  "name": "Memory Impairment",
+                  "definition": "Reduced ability to remember information",
+                  "examples": ["Forgetfulness", "Difficulty recalling details"]
+                },
+                {
+                  "name": "Poor Decision Making",
+                  "definition": "Reduced judgment quality",
+                  "examples": ["Hasty decisions", "Inability to evaluate alternatives"]
+                }
+              ]
+            },
+            {
+              "title": "Physiological Consequences",
+              "level": 2,
+              "content": "Physical health effects of stress",
+              "concepts": [
+                {
+                  "name": "Cardiovascular Problems",
+                  "definition": "Heart and blood vessel issues",
+                  "examples": ["High blood pressure", "Heart disease", "Stroke"]
+                },
+                {
+                  "name": "Gastrointestinal Issues",
+                  "definition": "Digestive system problems",
+                  "examples": ["Ulcers", "Irritable bowel syndrome", "Stomach pain"]
+                },
+                {
+                  "name": "Immune System Suppression",
+                  "definition": "Reduced immune function",
+                  "examples": ["Frequent illness", "Slow healing"]
+                },
+                {
+                  "name": "Musculoskeletal Problems",
+                  "definition": "Muscle and joint issues",
+                  "examples": ["Tension headaches", "Back pain", "Muscle tension"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stress Prevention and Management",
+          "level": 1,
+          "content": "Strategies to prevent and cope with workplace stress at both organizational and individual levels",
+          "concepts": [],
+          "subsections": [
+            {
+              "title": "Organizational Approaches",
+              "level": 2,
+              "content": "Organizational interventions to reduce and manage stress",
+              "concepts": [
+                {
+                  "name": "Employee Assistance Programs (EAPs)",
+                  "definition": "Confidential counseling and support services",
+                  "examples": ["Professional counseling", "Crisis intervention", "Referral services"]
+                },
+                {
+                  "name": "Wellness Programs",
+                  "definition": "Health promotion initiatives",
+                  "examples": ["Fitness programs", "Health screenings", "Nutrition education"]
+                },
+                {
+                  "name": "Work Redesign",
+                  "definition": "Restructuring jobs to reduce stressors",
+                  "examples": ["Job enrichment", "Flexible schedules", "Telecommuting options"]
+                },
+                {
+                  "name": "Role Clarification",
+                  "definition": "Clarifying expectations and responsibilities",
+                  "examples": ["Clear job descriptions", "Performance standards", "Communication of expectations"]
+                },
+                {
+                  "name": "Person-Environment Fit",
+                  "definition": "Matching individuals to appropriate roles",
+                  "examples": ["Proper selection", "Job matching", "Career counseling"]
+                }
+              ]
+            },
+            {
+              "title": "Individual Coping Strategies",
+              "level": 2,
+              "content": "Personal approaches to managing stress",
+              "concepts": [
+                {
+                  "name": "Problem-Focused Coping",
+                  "definition": "Taking action to eliminate or reduce the stressor",
+                  "examples": ["Time management", "Prioritization", "Seeking help", "Skill development"]
+                },
+                {
+                  "name": "Emotion-Focused Coping",
+                  "definition": "Managing emotional responses to stress",
+                  "examples": ["Relaxation techniques", "Cognitive reframing", "Seeking emotional support"]
+                },
+                {
+                  "name": "Relaxation Techniques",
+                  "definition": "Methods to reduce physical tension",
+                  "examples": ["Deep breathing", "Progressive muscle relaxation", "Yoga"]
+                },
+                {
+                  "name": "Meditation and Mindfulness",
+                  "definition": "Practices to calm the mind and increase awareness",
+                  "examples": ["Mindfulness meditation", "Guided imagery", "Mindful breathing"]
+                },
+                {
+                  "name": "Physical Exercise",
+                  "definition": "Regular physical activity to manage stress",
+                  "examples": ["Aerobic exercise", "Strength training", "Walking"]
+                },
+                {
+                  "name": "Cognitive Restructuring",
+                  "definition": "Changing thought patterns to reduce stress",
+                  "examples": ["Challenging negative thoughts", "Reframing situations", "Positive self-talk"]
+                },
+                {
+                  "name": "Time Management",
+                  "definition": "Organizing time effectively",
+                  "examples": ["Prioritizing tasks", "Setting boundaries", "Eliminating time wasters"]
+                }
+              ]
+            }
+          ]
+        }
       ],
       "totalPages": 54
     }
