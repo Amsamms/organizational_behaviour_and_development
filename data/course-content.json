@@ -9,7 +9,7 @@
       "part": 1,
       "title": "The Field of Organizational Behavior",
       "color": "#3498db",
-      "chapters": []
+      "chapters": [1]
     },
     {
       "part": 2,
@@ -43,6 +43,101 @@
     }
   ],
   "chapters": [
+    {
+      "chapter": 1,
+      "title": "Course Introduction & Overview",
+      "overview": "This course provides an introduction and broad overview of the Organizational Behavior (OB) field. Organizations are much more than only a means for providing goods and services - they create the settings in which most people spend their lives. This course focuses on introducing the three levels of OB: Individual, Group, and Organizational Levels. It integrates conceptual and applied material through discussions, presentations, case studies and role playing.",
+      "keyTakeaways": [
+        "To provide conceptual knowledge and present main concepts needed to understand OB",
+        "To introduce the three main levels of OB: Individual, Group, and Organizational Levels",
+        "To introduce main skills and competencies needed to effectively manage performance",
+        "To identify major individual variables that influence work behavior",
+        "Understand differences between groups and teams, and criteria for effectiveness",
+        "Explain elements in the communication process and ways to improve organizational communication",
+        "Define leadership and how it can enhance employee performance",
+        "To effectively put OB knowledge into action and apply theoretical knowledge in organizations"
+      ],
+      "sections": [
+        {
+          "title": "Course Description",
+          "level": 1,
+          "content": "Organizations create the settings in which most people spend their lives. Managers need to manage human resources in a way that leads to increases in profits, productivity, effectiveness, and ensures achieving organizational goals on both short and long term. Studying OB helps managers learn how to identify, manage and lead behavior and actions of individuals and groups, and influence the causes of individual, group, and organizational effectiveness.",
+          "concepts": []
+        },
+        {
+          "title": "Course Framework",
+          "level": 1,
+          "content": "The course is structured into four main parts that build upon each other",
+          "concepts": [
+            {
+              "name": "Part 1: The Field of Organizational Behavior",
+              "definition": "Introduction to OB fundamentals, nature, aims, theories, and guiding principles",
+              "examples": []
+            },
+            {
+              "name": "Part 2: Understanding and Managing Individual Behavior",
+              "definition": "Covers individual differences, perceptions, attitudes, personality, and motivation (Chapters 3, 4, 5)",
+              "examples": []
+            },
+            {
+              "name": "Part 3: Group Behavior and Interpersonal Influence",
+              "definition": "Examines groups, teams, evaluation systems, stress management, conflict and negotiations (Chapters 7, 9, 10)",
+              "examples": []
+            },
+            {
+              "name": "Part 4: Organizational Processes",
+              "definition": "Explores conflict management, power & politics, and communication (Chapters 11, 12, 13)",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "title": "Assessment Structure",
+          "level": 1,
+          "content": "Student performance is evaluated through multiple components to ensure comprehensive understanding",
+          "concepts": [
+            {
+              "name": "Attendance, Presentations & Participation",
+              "definition": "Active engagement in class activities and discussions - 20%",
+              "examples": []
+            },
+            {
+              "name": "Research Paper",
+              "definition": "Independent research on OB topics - 10%",
+              "examples": []
+            },
+            {
+              "name": "Mid Term Exam",
+              "definition": "Assessment of first half course material - 30%",
+              "examples": []
+            },
+            {
+              "name": "Final Exam",
+              "definition": "Comprehensive assessment of all course content - 40%",
+              "examples": []
+            }
+          ]
+        },
+        {
+          "title": "Required Textbooks",
+          "level": 1,
+          "content": "Essential reading materials for the course",
+          "concepts": [
+            {
+              "name": "Primary Textbook",
+              "definition": "Konopaske, R., Ivancevich, J., and Matteson, M. (2023). Organizational Behavior and Management (12th ed.), McGraw-Hill International",
+              "examples": []
+            },
+            {
+              "name": "Recommended Textbook",
+              "definition": "Robbins, S. and Judge, T. (2018). Organizational Behavior (18th ed.), Pearson Education Inc",
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "totalPages": 2
+    },
     {
       "chapter": 10,
       "title": "Groups and Teams",
